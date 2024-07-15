@@ -3,3 +3,5 @@
 # Forzar GitHub a detectar C# como el lenguaje principal
 *.cs linguist-detectable=true
 *.shader linguist-detectable=false
+*.hlsl linguist-detectable=false
+*.cginc linguist-detectable=false
